@@ -75,6 +75,10 @@ body {
   background-color: #ffffff;
 }
 
+.images {
+  background-color: #fff;
+}
+
 .text {
   font-family: "Roboto", "Raleway", sans-serif;
   color: #434455;
@@ -90,6 +94,19 @@ body {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+}
+
+.person {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.person:hover {
+  color: #404bbf;
+  cursor: pointer;
 }
 
 span {
@@ -182,11 +199,6 @@ footer {
   font-style: normal;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #404bbf;
-  cursor: pointer;
-}
-
-.person:hover {
   color: #404bbf;
   cursor: pointer;
 }
