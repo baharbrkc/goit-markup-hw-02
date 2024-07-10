@@ -61,7 +61,7 @@ body {
   text-align: center;
 }
 
-.title-2 {
+.section-title {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -76,7 +76,7 @@ body {
 }
 
 .images {
-  background-color: #fff;
+  background-color: #ffffff;
 }
 
 .text {
@@ -88,7 +88,7 @@ body {
   letter-spacing: 0.02em;
 }
 
-.title-3 {
+.text-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
